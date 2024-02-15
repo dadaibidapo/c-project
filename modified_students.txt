@@ -1,0 +1,20 @@
+Name: John
+ID: 12345
+Original GPA: 3.8
+Modified GPA: 4.3
+------------------------
+Name: Jane
+ID: 67890
+Original GPA: 3.5
+Modified GPA: 4
+------------------------
+Name: Dare
+ID: 39499
+Original GPA: 4
+Modified GPA: 4.5
+------------------------
+Name: 
+ID: 39499
+Original GPA: 4
+Modified GPA: 4.5
+------------------------
